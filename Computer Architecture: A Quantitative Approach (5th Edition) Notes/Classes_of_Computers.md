@@ -41,7 +41,21 @@
 
 
 - **Desktop**
-  - 
+  - **Price of system**: $300–$2500
+  - **Price of microprocessor**: $50–$500
+  - **Critical system design issues**:
+    - Price-performance
+    - Energy 
+    - Graphics performance
+  
+  **Additional Notes on Desktop**:
+  - **Cost Concerns**:
+    - The desktop computing market is driven by the motivation to optimize price-performance
+    - Desktop computing is well characterized in terms of application and benchmarking ***but*** the increasing use of the interactive applications poses new challenges in performance evaluation because:
+        - **Latency**: Interactive applications need to minimize the delay between user input and system response. High latency can significantly degrade user experience.
+        - **Real-time Performance**: These applications often have to process data in real-time, meaning they must handle input, perform calculations, and render results almost instantaneously.
+        - **User Experience**: Performance evaluation now needs to consider subjective measures such as smoothness of interaction, responsiveness, and overall user satisfaction, which are harder to quantify.
+        - **Complex Workloads**: Interactive applications may involve complex graphics rendering, real-time data streaming, and high levels of interactivity, all of which add layers of complexity to performance evaluation.
 
 - **Server**
   - 
